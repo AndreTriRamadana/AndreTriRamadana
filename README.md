@@ -1,1 +1,1 @@
-![readmebox]([https://github.com/salluthdev/salluthdev/assets/83701344/5f518389-7312-41f7-b833-9bbdbdee11c9](https://raw.githubusercontent.com/AndreTriRamadana/AndreTriRamadana/2ef8f3fbc6d5f3b2b78b80a7cfd645ff18343869/readmebox%5Ba%5D.svg)https://raw.githubusercontent.com/AndreTriRamadana/AndreTriRamadana/2ef8f3fbc6d5f3b2b78b80a7cfd645ff18343869/readmebox%5Ba%5D.svg)
+![readmebox](https://raw.githubusercontent.com/AndreTriRamadana/AndreTriRamadana/f34aa1002290092a515c0488ac5da250b7ae2e4d/readmebox%5Ba%5D.svg)
